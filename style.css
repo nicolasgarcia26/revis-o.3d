@@ -31,4 +31,5 @@ h4 { text-align: left;
     line-height: 1.6;
     word-spacing: 4px;
     word-wrap: break-word;
+    overflow: hidden;
     color: aliceblue;}
