@@ -17,8 +17,14 @@ border: 2px solid  rgb(151, 160, 243) ;
 border-radius: 10px;
 
 }
-
-
+h2{
+    text-align: left;
+    font-size: 130%;
+    line-height: 1.6;
+    word-spacing: 4px;
+    word-wrap: break-word;
+    color: aliceblue;
+}
 
 h4 { text-align: left;
     font-size: 130%;
